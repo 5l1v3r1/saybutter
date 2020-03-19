@@ -8,13 +8,13 @@ trap 'printf "\n";stop' 2
 banner() {
 
 
-printf "\e[1;92m  ____              \e[0m\e[1;77m /  |                /  |   /  |                      \e[0m\n"
-printf "\e[1;92m / ___|  __ _ _   _ \e[0m\e[1;77m/$$ |____  __    __ _$$ |_ _$$ |_    ______   ______  \e[0m\n"
-printf "\e[1;92m \___ \ / _\` | | | \e[0m\e[1;77m $$      \/  |  /  / $$   / $$   |  /      \ /      \ \e[0m\n"
-printf "\e[1;92m  ___) | (_| | |_| |\e[0m\e[1;77m $$ |  $$ $$ |  $$ | $$ | __$$ | __$$    $$ $$ |  $$/ \e[0m\n"
-printf "\e[1;92m |____/ \__,_|\__, |\e[0m\e[1;77m$$  |__$$ $$ \__$$ | $$ |/  $$ |/  $$$$$$$$/$$ |      \e[0m\n"
-printf "\e[1;92m              |___/ \e[0m\e[1;77m    $$    $$/$$    $$/  $$  $$/$$  $$/$$       $$ |   \e[0m\n"      
-printf "\e[1;92m ...................\e[0m\e[1;77m /  $$$$$$$/  $$$$$$/    $$$$/  $$$$/  $$$$$$$/$$/    \e[0m\n" 
+printf "\e[1;92m  ____              \e[0m\e[1;77m butter \e[0m\n"
+printf "\e[1;92m / ___|  __ _ _   _ \e[0m\e[1;77m butter \e[0m\n"
+printf "\e[1;92m \___ \ / _\` | | | \e[0m\e[1;77m butter \e[0m\n"
+printf "\e[1;92m  ___) | (_| | |_| |\e[0m\e[1;77m butter \e[0m\n"
+printf "\e[1;92m |____/ \__,_|\__, |\e[0m\e[1;77m butter  \e[0m\n"
+printf "\e[1;92m              |___/ \e[0m\e[1;77m butter   \e[0m\n"      
+printf "\e[1;92m ...................\e[0m\e[1;77m butter    \e[0m\n" 
 printf " \e[1;77m v1.1 coded by Xsec7T0x8c\e[0m \n"
 
 printf "\n"
